@@ -1,0 +1,52 @@
+.heder {
+    padding-top: 28px;
+    padding-bottom: 20px;
+    position: relative;
+
+
+&__list{
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+gap: 60px;
+}
+
+&__link{
+
+    color: #BAEBF0;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+background-color: #04007E;;
+padding-top: 9px;
+padding-bottom: 9px;
+padding-left: 30px;
+padding-right: 30px;
+border-radius: 20px;
+}
+
+
+
+
+
+
+&__listik{
+color: #04007E;
+text-align: center;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+position: absolute;
+top: 22px;
+right: 150px;
+}
+
+
+}
