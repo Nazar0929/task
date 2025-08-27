@@ -81,4 +81,42 @@ input::-webkit-inner-spin-button {
   .container {
     width: 1200px;
   }
+}
+
+.heder {
+  padding-top: 28px;
+  padding-bottom: 20px;
+  position: relative;
+}
+.heder__list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+}
+.heder__link {
+  color: #BAEBF0;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  background-color: #04007E;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 20px;
+}
+.heder__listik {
+  color: #04007E;
+  text-align: center;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  right: 150px;
 }/*# sourceMappingURL=main.css.map */
