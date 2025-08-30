@@ -119,4 +119,65 @@ input::-webkit-inner-spin-button {
   position: absolute;
   top: 22px;
   right: 150px;
+}
+
+.hero {
+  padding-top: 40px;
+}
+.hero__title {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  align-items: center;
+  height: 126px;
+  flex-shrink: 0;
+  width: 681px;
+  color: #04007e;
+  font-family: Inter;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  margin-bottom: 2px;
+}
+.hero__subtitle {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  color: #3C3D9F;
+  font-family: Italianno;
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 4px;
+}
+.hero__images {
+  display: block;
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.hero__text {
+  color: #3C3D9F;
+  font-family: "Irish Grover";
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 38px;
+  text-align: center;
+  margin-right: 170px;
+}
+.hero__subtext {
+  color: #04007E;
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  text-align: center;
+  margin-left: 170px;
 }/*# sourceMappingURL=main.css.map */
